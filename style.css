@@ -239,3 +239,7 @@ header ul {
     position: relative;
     display: inline-block;
   }
+
+.pcenter {
+    text-align: center;
+}
